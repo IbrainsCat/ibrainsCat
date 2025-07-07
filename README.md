@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🧠 IbrainsCat-Core v1.0.4
 
-<!--
-**IbrainsCat/ibrainsCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “I don’t download tools.  
+> I build systems.”
 
-Here are some ideas to get you started:
+IbrainsCat is a custom hacking terminal environment created inside Termux using Python. It includes tools for recon, payload building, and Telegram-based reporting — built by Ismail (aka @ibrainsCat).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Features
+
+- 🔐 Terminal login with access key
+- 🛰️ Recon scanner with OS guessing & open port detection
+- 📤 Telegram integration for log reporting
+- 📦 Payload builder (Android reverse shell APK via msfvenom)
+- 📁 Hidden log and payload storage
+- 🎨 Styled CLI interface (using toilet/fig
